@@ -31,16 +31,16 @@
 			<string></string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.198782295148-sgjqdclr9u2d6ps7dphd0trfcma8ctf5</string>
+				<string>c</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>FacebookAppID</key>
-	<string>788121321866115</string>
+	<string></string>
 	<key>FacebookClientToken</key>
-	<string>54a237ae89fbb1b128405f050b123801</string>
+	<string></string>
 	<key>FacebookDisplayName</key>
 	<string>chatapp</string>
 	<key>LSApplicationQueriesSchemes</key>
